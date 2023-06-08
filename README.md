@@ -2,6 +2,8 @@
 
 A small Notes API that provides CRUD operations to manage your notes.
 
+**Note:** you can import `notes-manager.postman_collection.json` into your Postman to test the endpoints
+
 ## Getting started
 
 - Clone the repository
